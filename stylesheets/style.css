@@ -45,6 +45,57 @@ body {
     margin-bottom: 5px;
 }
 
+.spookthemes {
+    background: #000252 !important;
+    color: white;
+}
+
+.spookthemes:hover {
+    background: #000373 !important;
+    color: white;
+    text-decoration: none;
+}
+
+.github {
+    background: black !important;
+    color: white;
+}
+
+.github:hover {
+    background: #121212 !important;
+    color: white;
+    text-decoration: none;
+}
+
+.kofi {
+    background: #ff5f5f !important;
+}
+
+.kofi:hover {
+    background: #ff4646 !important;
+    text-decoration: none;
+}
+
+.twitter {
+    background: #1da1f2 !important;
+    color: white;
+}
+
+.twitter:hover {
+    opacity: 0.9 !important;
+    text-decoration: none;
+}
+
+.linkedin {
+    background: #0e76a8 !important;
+    color: white;
+}
+
+.linkedin:hover {
+    opacity: 0.9 !important;
+    text-decoration: none;
+}
+
 .list-group-item a,
 a {
     color: black;
