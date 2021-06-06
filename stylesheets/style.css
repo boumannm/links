@@ -10,6 +10,12 @@ body {
     max-height: 20px;
 }
 
+.subtext {
+    font-size: 1.1rem;
+    color: #f8f8f8;
+    text-align: center;
+}
+
 .avatar {
     max-width: 150px;
     border-radius: 150px;
