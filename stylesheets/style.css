@@ -78,35 +78,6 @@ body {
     text-decoration: none;
 }
 
-.kofi {
-    background: #ff5f5f !important;
-}
-
-.kofi:hover {
-    background: #ff4646 !important;
-    text-decoration: none;
-}
-
-.twitter {
-    background: #1da1f2 !important;
-    color: white;
-}
-
-.twitter:hover {
-    opacity: 0.9 !important;
-    text-decoration: none;
-}
-
-.linkedin {
-    background: #0e76a8 !important;
-    color: white;
-}
-
-.linkedin:hover {
-    opacity: 0.9 !important;
-    text-decoration: none;
-}
-
 .list-group-item a,
 a {
     color: black;
@@ -120,6 +91,11 @@ a:hover {
 
 .list-group-item:hover {
     background: #12c5a1;
+}
+
+.theme-name-footer {
+    margin-top: 50px;
+    text-align: center;
 }
 
 @media (min-width: 576px) {
