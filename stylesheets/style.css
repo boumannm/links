@@ -1,10 +1,6 @@
 body {
-    background: #222;
+    background: #DC143C;
     font-family: 'Cardo', serif;
-}
-
-.navbar {
-    background: #222;
 }
 
 .head-logo {
@@ -51,11 +47,12 @@ body {
 
 .list-group-item {
     text-align: center;
-    background: #ffd886;
+    background: #14dcb4;
     padding: 20px;
     border-radius: 10px !important;
     margin-top: 5px;
     margin-bottom: 5px;
+    font-weight: 400;
 }
 
 .spookthemes {
@@ -121,7 +118,7 @@ a:hover {
 }
 
 .list-group-item:hover {
-    background:#ffe7b5;
+    background: #12c5a1;
 }
 
 @media (min-width: 576px) {
