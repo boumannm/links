@@ -93,6 +93,17 @@ a:hover {
     background: #12c5a1;
 }
 
+.github {
+    background: black;
+    color: white;
+}
+
+.github:hover {
+    background: #121212;
+    color: white;
+    text-decoration: none;
+}
+
 .theme-name-footer {
     margin-top: 50px;
     text-align: center;
