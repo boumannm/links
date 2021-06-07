@@ -113,10 +113,18 @@ a:hover {
     .avatar {
         margin-top: 0;
     }
+
+    .subtext {
+        max-width: 80%;
+    }
  }
 
 @media (min-width: 768px) {
     .avatar {
         margin-top: 50px;
+    }
+
+    .subtext {
+        max-width: 80%;
     }
  }
