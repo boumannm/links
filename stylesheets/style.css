@@ -109,7 +109,7 @@ a:hover {
     text-align: center;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
     .avatar {
         margin-top: 0;
     }
@@ -119,7 +119,7 @@ a:hover {
     }
  }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
     .avatar {
         margin-top: 50px;
     }
