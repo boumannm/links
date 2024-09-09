@@ -1,6 +1,5 @@
 body {
     background: #DC143C;
-    font-family: 'Cardo', serif;
 }
 
 .head-logo {
@@ -8,6 +7,8 @@ body {
 }
 
 .subtext {
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
     font-size: 1.2rem;
     max-width: 50%;
     margin-left: auto;
